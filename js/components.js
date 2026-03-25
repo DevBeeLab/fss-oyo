@@ -278,7 +278,7 @@ class SiteFooter extends HTMLElement {
             Surveying, Oyo. All rights reserved.
           </p>
           <div class="bottom-links">
-            <span>Powered by <a href="https://walexsson.github.io/DevBee/" target="_blank">DevBee</a></span>
+            <span>Powered by <a href="https://devbeelab.github.io/DevBee/" target="_blank">DevBee</a></span>
           </div>
         </div>
       </div>
